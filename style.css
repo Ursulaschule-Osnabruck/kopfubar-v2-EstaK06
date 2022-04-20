@@ -1,3 +1,24 @@
 body { 
-    background-color: lightblue;
+    margin-left:30%;
+             margin-right: 30%;
+             margin-top: 20px; 
 }
+
+h1{ 
+    color:#007e7e ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2 { 
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    ; font-weight: normal;
+    font-size: medium;
+    text-align: left;}
+  #garantie {
+        background-color:#a7cece  ;
+          border-radius: 1px;
+            margin:5px;
+        }
+        h3 {  margin-left:35%;
+        margin-right:35%;
+      ;}
