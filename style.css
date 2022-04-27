@@ -1,24 +1,46 @@
 body { 
     margin-left:30%;
-             margin-right: 30%;
+             margin-right: 15%;
              margin-top: 20px; 
+             width: 1000px;
+             margin: auto;
+
 }
 
 h1{ 
     color:#007e7e ;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:x-large;
 }
 h2 { 
     color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     ; font-weight: normal;
-    font-size: medium;
-    text-align: left;}
+    font-size: 90%;
+    text-align: left;
+  margin-right: 20%;}
+   
   #garantie {
         background-color:#a7cece  ;
-          border-radius: 1px;
-            margin:5px;
-        }
-        h3 {  margin-left:35%;
-        margin-right:35%;
-      ;}
+        background-repeat: no-repeat;
+        background-image: url(bilder/hintergrund.gif);
+        font-family:Georgia, 'Times New Roman', Times, serif;
+       margin-left: 20px;
+       margin-right:300px;
+       padding-left: 80px;
+       padding-right: 20px;
+       padding-top: 20px;
+       padding-bottom: 20px;
+       font-style: italic;
+       
+      }
+      #elexire { float: right;
+        width: 200px;
+    
+    }
+  
+  
+
+
+     
+       
