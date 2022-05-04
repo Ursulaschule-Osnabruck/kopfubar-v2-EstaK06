@@ -19,6 +19,8 @@ h2 {
     font-size: 90%;
     text-align: left;
   margin-right: 20%;}
+
+  h3 { fomt size: 90%;}
    
   #garantie {
         background-color:#a7cece  ;
@@ -31,13 +33,10 @@ h2 {
        padding-right: 20px;
        padding-top: 20px;
        padding-bottom: 20px;
-       font-style: italic;
-       
-      }
-      #elexire { float: right;
-        width: 200px;
-    
-    }
+       font-style: italic;}
+     
+       #elexire { float: right;
+        width: 200px;}
   
   
 
